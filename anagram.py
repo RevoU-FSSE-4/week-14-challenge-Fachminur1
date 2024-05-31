@@ -25,7 +25,6 @@ def are_anagrams(word1: str, word2: str) -> bool:
     word2 = word2.replace(" ", "").lower()
 
     # Implement your solution here
-    pass
     return sorted(word1) == sorted(word2)
 
 # You can test your function with print statements below

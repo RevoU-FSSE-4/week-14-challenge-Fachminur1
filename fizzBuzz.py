@@ -28,7 +28,6 @@ def fizz_buzz(n):
         else:
             result.append(str(i))
     return result
-    pass
 
 n = 15
 print(fizz_buzz(n))

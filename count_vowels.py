@@ -12,7 +12,6 @@ def count_vowels(s: str) -> int:
     - count_vowels("python") should return 1
     """
     # Implement your solution here
-    pass
 
 # You can test your function with print statements below
 # Example:

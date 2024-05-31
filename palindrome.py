@@ -18,7 +18,6 @@ def is_palindrome(s: str) -> bool:
     - is_palindrome("racecar") should return True
     - is_palindrome("hello") should return False
     """
-    pass
 def is_palindrome(string): 
     if string == string[::-1]: 
         return "The string is a palindrome." 
